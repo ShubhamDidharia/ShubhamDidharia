@@ -27,7 +27,7 @@
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Web Development**, **DSA/CP**, **ML/DL** or **Tech Career**
 - 🎯 Goal: Contribute more to Open Source
-- 💼 Portfolio: <a href="v0-modern-personal-portfolio-three.vercel.app/">Dive Here!</a>
+- 💼 Portfolio: <a href="https://v0-modern-personal-portfolio-three.vercel.app/">Dive Here!</a>
 - 📫 Reach me at: [shubhamdidharia627@gmail.com](mailto:shubhamdidharia627@gmail.com)
 - 😄 Pronouns: I prefer he/him
 
